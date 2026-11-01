@@ -1,0 +1,3 @@
+./ jobs:
+  commit concurrency: / transfer 200M description: USD @dalecannegie-commits
+  / schedule: every 24 hours.
